@@ -1,5 +1,5 @@
 import {addMoneyToBudget, createMessage, repairHouse, toFireStaff, toHireStaff} from "./04";
-import {CityType} from "../03/03";
+import {CityType} from "./03";
 
 let city: CityType;
 
@@ -128,4 +128,4 @@ test("Greeting message should be correct for the city", () => {
 
     expect(message).toBe("Hello New York citizens! All of 1000000 people.");
 
-});
+})
