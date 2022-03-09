@@ -20,4 +20,12 @@
 2. end
 3. Inside timeout
 
+![Событийный цикл (макрозадачи)](../assets/eventLoop.svg)
+![Событийный цикл (макрозадачи и микрозадачи)](../assets/eventLoop-full.svg)
+
+[Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop#makrozadachi-i-mikrozadachi)
+
+
+[Микрозадачи](https://learn.javascript.ru/microtask-queue)
+
 [Видео разбор](https://www.youtube.com/watch?v=vIZs5tH-HGQ)
